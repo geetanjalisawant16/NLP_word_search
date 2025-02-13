@@ -57,6 +57,7 @@ The script automatically downloads these resources when run.
 
 ## License
 
-This project is open-source and available under the Apache 2.0 License.
+This project is open-source and available under the Apache 2.0 License.link https://github.com/geetanjalisawant16/NLP_word_search/tree/main#Apache-2.0-1-ov-file
+
 
 
